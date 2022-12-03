@@ -1,0 +1,24 @@
+{
+  "name": "eth-india-2022-team12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmathew-k/eth-india-2022-Team12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmathew-k/eth-india-2022-Team12/issues"
+  },
+  "homepage": "https://github.com/jmathew-k/eth-india-2022-Team12#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.3"
+  }
+}
